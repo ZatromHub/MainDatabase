@@ -1,4 +1,8 @@
-[
-  { "username": "admin", "password": "$2y$10$UqG9ivL73K1v7z6q17n81u15POA8XZtqaDiNr7gkzqBBjgr78yH7G" },
-  { "username": "user1", "password": "$2y$10$HF9M7Onoz0BGaK2d7.sj0uhCZKieybqOTK1l.Ihbs4TwmbX0gmBSW" }
-]
+{
+  "6287780625347": {
+    "name": "1",
+    "password": "1"
+    "pin": "1"
+    "token": "1
+  }
+}
